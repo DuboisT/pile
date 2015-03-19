@@ -29,7 +29,6 @@ public class main {
 		System.out.println("On empile 3 dans Pile1 " + Pile1.empiler(3));
 		System.out.println("Le sommet de Pile1 est " + Pile1.voirSommet());
 		System.out.println("On depile Pile1 " + Pile1.depiler());
-		System.out.println("Le sommet de Pile1 est " + Pile1.voirSommet());
 	}
 
 }
