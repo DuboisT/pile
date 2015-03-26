@@ -24,9 +24,6 @@ public class PileEntierPositifsouNuls
 		this(TAILLE_DEFAUT);
 	}
 
-	/**
-	 * @return the taille
-	 */
 	public int getTaille()
 	{
 		return this.taille;
